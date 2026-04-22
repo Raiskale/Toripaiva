@@ -6,7 +6,7 @@ session_start();
     <div class="logo">
         <a href="index.php">
             <img src="public/bubel.png" alt="">
-            Raparpar
+            Toripäivä
         </a>
     </div>
 
